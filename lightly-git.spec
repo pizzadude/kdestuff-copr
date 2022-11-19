@@ -30,6 +30,10 @@ BuildRequires:  cmake(KF5Crash)
 BuildRequires:  cmake(KF5KIO)
 BuildRequires:  cmake(KF5Notifications)
 BuildRequires:  kf5-kpackage-devel
+BuildRequires:  cmake(KF5KCMUtils)
+BuildRequires:  cmake(KF5FrameworkIntegration)
+BuildRequires:  cmake(Qt5Quick)
+BuildRequires:  cmake(KF5Wayland)
 
 %description
 Lightly is a fork of breeze theme style that aims to be visually modern and
